@@ -24,3 +24,6 @@ pip install fastapi uvicorn sqlalchemy pydantic
 
 3. Run the Application
 uvicorn main:app --reload
+
+4. Install all required dependencies
+pip install -r requirements.txt
