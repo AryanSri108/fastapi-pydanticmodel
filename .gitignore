@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+env/
+
+# Environment variable files
+.env
+*.env
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Pytest cache
+.pytest_cache/
+
+# mypy type checker cache
+.mypy_cache/
+
+# VS Code settings
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Coverage reports
+htmlcov/
+.tox/
+
+# Build directories
+build/
+dist/
+*.egg-info/
