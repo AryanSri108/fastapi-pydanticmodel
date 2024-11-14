@@ -18,3 +18,9 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/AryanSri108/fastapi-pydanticmodel.git
 cd fastapi-pydanticmodel
+
+### 2. Install the required packages by running
+pip install fastapi uvicorn sqlalchemy pydantic
+
+### 3. Run the Application
+uvicorn main:app --reload
